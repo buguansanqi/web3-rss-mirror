@@ -1,0 +1,1799 @@
+{
+  "updated_at": "2026-11-26T08:57:16Z",
+  "total": 224,
+  "ok": 42,
+  "feeds": [
+    {
+      "category": "01. Project Updates",
+      "title": "1inch exchange on Medium",
+      "url": "https://medium.com/feed/@1inch-exchange",
+      "filename": "1inch_exchange_on_Medium_5d977e22",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "2key - Medium",
+      "url": "https://medium.com/feed/2key",
+      "filename": "2key_-_Medium_1ca62473",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "ACINQ on Medium",
+      "url": "https://medium.com/feed/@ACINQ",
+      "filename": "ACINQ_on_Medium_102ef68d",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "APWine Finance on Medium",
+      "url": "https://medium.com/feed/@apwine",
+      "filename": "APWine_Finance_on_Medium_65fe8410",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Aave Blog - Medium",
+      "url": "https://medium.com/feed/aave",
+      "filename": "Aave_Blog_-_Medium_aa0a718b",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Alchemist on Medium",
+      "url": "https://medium.com/feed/@alchemistcoin",
+      "filename": "Alchemist_on_Medium_15870924",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Alchemix Finance on Medium",
+      "url": "https://medium.com/feed/@alchemixfi",
+      "filename": "Alchemix_Finance_on_Medium_b685faba",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Algorand - Medium",
+      "url": "https://medium.com/feed/algorand",
+      "filename": "Algorand_-_Medium_c1812cfd",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Alkemi Network - Medium",
+      "url": "https://medium.com/feed/alkemi",
+      "filename": "Alkemi_Network_-_Medium_f18234b1",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Alliance DAO - Medium",
+      "url": "https://medium.com/feed/defi-alliance",
+      "filename": "Alliance_DAO_-_Medium_e7c2c2d9",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "AltLayer",
+      "url": "https://medium.com/feed/@altlayer",
+      "filename": "AltLayer_cc969452",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Anchorage Digital - Medium",
+      "url": "https://medium.com/feed/anchorage",
+      "filename": "Anchorage_Digital_-_Medium_cba4960c",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Anoma - Medium",
+      "url": "https://medium.com/feed/anomanetwork",
+      "filename": "Anoma_-_Medium_efdc0a17",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Apifiny - Medium",
+      "url": "https://medium.com/feed/apifiny",
+      "filename": "Apifiny_-_Medium_8af58437",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Aptos",
+      "url": "https://aptoslabs.medium.com/feed",
+      "filename": "Aptos_8750ba54",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Arcana Network on Medium",
+      "url": "https://medium.com/feed/@arcana-network",
+      "filename": "Arcana_Network_on_Medium_e060bd30",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Archer Team on Medium",
+      "url": "https://medium.com/feed/@archerdao",
+      "filename": "Archer_Team_on_Medium_17acf34b",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Argent - Medium",
+      "url": "https://medium.com/feed/argenthq",
+      "filename": "Argent_-_Medium_f98d72a3",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Arianee - Medium",
+      "url": "https://medium.com/feed/arianee",
+      "filename": "Arianee_-_Medium_cbf4888d",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Arweave Project on Medium",
+      "url": "https://medium.com/feed/@arweave",
+      "filename": "Arweave_Project_on_Medium_3dd65f7a",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Atvanguard on Medium",
+      "url": "https://medium.com/feed/@atvanguard",
+      "filename": "Atvanguard_on_Medium_a85bec88",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Authereum - Medium",
+      "url": "https://medium.com/feed/authereum",
+      "filename": "Authereum_-_Medium_2a570d6f",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Automata Network on Medium",
+      "url": "https://medium.com/feed/@automatanetwork",
+      "filename": "Automata_Network_on_Medium_028ca341",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ava Labs on Medium",
+      "url": "https://medium.com/feed/@avalabs",
+      "filename": "Ava_Labs_on_Medium_7b2c4c79",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Avalanche on Medium",
+      "url": "https://medium.com/feed/@avalancheavax",
+      "filename": "Avalanche_on_Medium_6a1ce397",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Aztec Network - Medium",
+      "url": "https://medium.com/feed/aztec-protocol",
+      "filename": "Aztec_Network_-_Medium_f6f2dfb5",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BEAM Privacy - Medium",
+      "url": "https://medium.com/feed/beam-mw",
+      "filename": "BEAM_Privacy_-_Medium_e9b89d8c",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BENQI on Medium",
+      "url": "https://medium.com/feed/@benqifinance",
+      "filename": "BENQI_on_Medium_4e363bdf",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Babylon.finance - Medium",
+      "url": "https://medium.com/feed/babylon-finance",
+      "filename": "Babylon_finance_-_Medium_40c2f0a6",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Badger DAO 🦡 on Medium",
+      "url": "https://medium.com/feed/@badgerdao",
+      "filename": "Badger_DAO_on_Medium_cd916d06",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Bakkt Blog - Medium",
+      "url": "https://medium.com/feed/bakkt-blog",
+      "filename": "Bakkt_Blog_-_Medium_4b307bef",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Balancer Protocol - Medium",
+      "url": "https://medium.com/feed/balancer-protocol",
+      "filename": "Balancer_Protocol_-_Medium_90ae6636",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BanklessDAO - Medium",
+      "url": "https://medium.com/feed/bankless-dao",
+      "filename": "BanklessDAO_-_Medium_556e99f8",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BarnBridge - Medium",
+      "url": "https://medium.com/feed/barnbridge",
+      "filename": "BarnBridge_-_Medium_e255f763",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Bitwise Asset Management - Medium",
+      "url": "https://medium.com/feed/bitwise-asset-management",
+      "filename": "Bitwise_Asset_Management_-_Medium_bddf72c1",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BlockRocket - Medium",
+      "url": "https://medium.com/feed/blockrocket",
+      "filename": "BlockRocket_-_Medium_9f5cce5c",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BlockWallet on Medium",
+      "url": "https://medium.com/feed/@blockwallet",
+      "filename": "BlockWallet_on_Medium_93ca9c8f",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Blockchain.com",
+      "url": "https://medium.com/feed/blockchain",
+      "filename": "Blockchain_com_e24f191e",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Blockfolio on Medium",
+      "url": "https://medium.com/feed/@Blockfolio",
+      "filename": "Blockfolio_on_Medium_af188391",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "BlocksetHQ - Medium",
+      "url": "https://medium.com/feed/blocksethq",
+      "filename": "BlocksetHQ_-_Medium_6caa0ec1",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Blockstream on Medium",
+      "url": "https://medium.com/feed/@blockstream",
+      "filename": "Blockstream_on_Medium_0445e98e",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Borderless Capital on Medium",
+      "url": "https://medium.com/feed/@borderlesscapital",
+      "filename": "Borderless_Capital_on_Medium_8257cfb4",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Bounce.finance on Medium",
+      "url": "https://medium.com/feed/@bouncefinance",
+      "filename": "Bounce_finance_on_Medium_a9959632",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Breez Technology - Medium",
+      "url": "https://medium.com/feed/breez-technology",
+      "filename": "Breez_Technology_-_Medium_fd4dc8c7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "CMT Digital Limited on Medium",
+      "url": "https://medium.com/feed/@CMTDigitalLtd",
+      "filename": "CMT_Digital_Limited_on_Medium_238a813c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Cartesi - Medium",
+      "url": "https://medium.com/feed/cartesi",
+      "filename": "Cartesi_-_Medium_e1d4c788",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Centre blog - Medium",
+      "url": "https://medium.com/feed/centre-blog",
+      "filename": "Centre_blog_-_Medium_f73e2606",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Centrifuge - Medium",
+      "url": "https://medium.com/feed/centrifuge",
+      "filename": "Centrifuge_-_Medium_d8b001b0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "ChainSafe - Medium",
+      "url": "https://medium.com/feed/chainsafe-systems",
+      "filename": "ChainSafe_-_Medium_2900c43c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "ChainSecurity - Medium",
+      "url": "https://medium.com/feed/chainsecurity",
+      "filename": "ChainSecurity_-_Medium_11768c06",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Charm - Medium",
+      "url": "https://medium.com/feed/charmfinance",
+      "filename": "Charm_-_Medium_87d422b6",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Compound - Medium",
+      "url": "https://medium.com/feed/compound-finance",
+      "filename": "Compound_-_Medium_2daac8a5",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Connext - Medium",
+      "url": "https://medium.com/feed/connext",
+      "filename": "Connext_-_Medium_51a85425",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Convergence Finance on Medium",
+      "url": "https://medium.com/feed/@convergencefinance",
+      "filename": "Convergence_Finance_on_Medium_391ef9c5",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DAOfi - Medium",
+      "url": "https://medium.com/feed/daofi",
+      "filename": "DAOfi_-_Medium_b7e474f9",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DEGO on Medium",
+      "url": "https://medium.com/feed/@degofinance",
+      "filename": "DEGO_on_Medium_55b08c0e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DFINITY on Medium",
+      "url": "https://medium.com/feed/@dfinity",
+      "filename": "DFINITY_on_Medium_ea2f2445",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DIA Insights - Medium",
+      "url": "https://medium.com/feed/dia-insights",
+      "filename": "DIA_Insights_-_Medium_3868c753",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DMM DAO - Medium",
+      "url": "https://medium.com/feed/dmm-dao",
+      "filename": "DMM_DAO_-_Medium_0cef86c6",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Dapper Labs on Medium",
+      "url": "https://medium.com/feed/@hellodapper",
+      "filename": "Dapper_Labs_on_Medium_c2bf8099",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DeFi Saver - Medium",
+      "url": "https://medium.com/feed/defi-saver",
+      "filename": "DeFi_Saver_-_Medium_87fd57da",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DeGate Team on Medium",
+      "url": "https://medium.com/feed/@degate",
+      "filename": "DeGate_Team_on_Medium_a05abb83",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Defi Lab on Medium",
+      "url": "https://medium.com/feed/@defi-lab",
+      "filename": "Defi_Lab_on_Medium_e6db62b9",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DerivaDEX - Medium",
+      "url": "https://medium.com/feed/derivadex",
+      "filename": "DerivaDEX_-_Medium_28260274",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "DuckDAO - Medium",
+      "url": "https://medium.com/feed/duckdao",
+      "filename": "DuckDAO_-_Medium_b253ce61",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "EGL on Medium",
+      "url": "https://medium.com/feed/@eglvote",
+      "filename": "EGL_on_Medium_f20254e0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Electron Labs - Medium",
+      "url": "https://medium.com/feed/electron-labs",
+      "filename": "Electron_Labs_-_Medium_ce94cf33",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Element Finance - Medium",
+      "url": "https://medium.com/feed/element-finance",
+      "filename": "Element_Finance_-_Medium_283998fb",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "EnsoFinance - Medium",
+      "url": "https://medium.com/feed/ensofinance",
+      "filename": "EnsoFinance_-_Medium_eb245044",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Enzyme - Medium",
+      "url": "https://medium.com/feed/melonprotocol",
+      "filename": "Enzyme_-_Medium_813f32d9",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Equilibrium - Medium",
+      "url": "https://medium.com/feed/equilibrium-eosdt",
+      "filename": "Equilibrium_-_Medium_072e0e9a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "ErisX Insights on Medium",
+      "url": "https://medium.com/feed/@erisxinsights",
+      "filename": "ErisX_Insights_on_Medium_c8657e39",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ethereum Cat Herders - Medium",
+      "url": "https://medium.com/feed/ethereum-cat-herders",
+      "filename": "Ethereum_Cat_Herders_-_Medium_01a778cf",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ethereum Swarm - Medium",
+      "url": "https://medium.com/feed/ethereum-swarm",
+      "filename": "Ethereum_Swarm_-_Medium_c744c80c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ethernity Chain on Medium",
+      "url": "https://medium.com/feed/@ethernitychain",
+      "filename": "Ethernity_Chain_on_Medium_dcb60e2e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Etherscan Blog - Medium",
+      "url": "https://medium.com/feed/etherscan-blog",
+      "filename": "Etherscan_Blog_-_Medium_d70f0792",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "FIO Blog - Medium",
+      "url": "https://medium.com/feed/fio-blog",
+      "filename": "FIO_Blog_-_Medium_aa148f2e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Fei Protocol - Medium",
+      "url": "https://medium.com/feed/fei-protocol",
+      "filename": "Fei_Protocol_-_Medium_335e8e95",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Findora - Medium",
+      "url": "https://medium.com/feed/findora",
+      "filename": "Findora_-_Medium_2552a3df",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Firefly - Medium",
+      "url": "https://medium.com/feed/dtrade",
+      "filename": "Firefly_-_Medium_bbf6da52",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Flashbots - Medium",
+      "url": "https://medium.com/feed/flashbots",
+      "filename": "Flashbots_-_Medium_83f08cba",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Flexa - Medium",
+      "url": "https://medium.com/feed/flexa",
+      "filename": "Flexa_-_Medium_1a84bcac",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Float Protocol on Medium",
+      "url": "https://medium.com/feed/@floatprotocol",
+      "filename": "Float_Protocol_on_Medium_aa30dd5f",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Fluidity - Medium",
+      "url": "https://medium.com/feed/fluidity",
+      "filename": "Fluidity_-_Medium_2ad62a61",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Force on Medium",
+      "url": "https://medium.com/feed/@forcedao",
+      "filename": "Force_on_Medium_a4e87b06",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Futureswap - Medium",
+      "url": "https://medium.com/feed/futureswap",
+      "filename": "Futureswap_-_Medium_e17c6786",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "GPU Report on Medium",
+      "url": "https://medium.com/feed/@raiden_network",
+      "filename": "GPU_Report_on_Medium_7efbcf04",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Gelato Network on Medium",
+      "url": "https://medium.com/feed/@gelatonetwork",
+      "filename": "Gelato_Network_on_Medium_38d9146b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "GiveCrypto.org - Medium",
+      "url": "https://medium.com/feed/givecrypto",
+      "filename": "GiveCrypto_org_-_Medium_8b96ec43",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Gnosis on Medium",
+      "url": "https://medium.com/feed/@gnosisPM",
+      "filename": "Gnosis_on_Medium_0aa76c2a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "GoodGhosting on Medium",
+      "url": "https://medium.com/feed/@goodghosting",
+      "filename": "GoodGhosting_on_Medium_eea74479",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Gro on Medium",
+      "url": "https://medium.com/feed/@groprotocol",
+      "filename": "Gro_on_Medium_2315523f",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "HOPR - Medium",
+      "url": "https://medium.com/feed/hoprnet",
+      "filename": "HOPR_-_Medium_c6db0cef",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Helium Foundation on Medium",
+      "url": "https://medium.com/feed/@dewialliance",
+      "filename": "Helium_Foundation_on_Medium_c43b530d",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Horizon Games - Medium",
+      "url": "https://medium.com/feed/horizongames",
+      "filename": "Horizon_Games_-_Medium_3a0e12ae",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Idle on Medium",
+      "url": "https://medium.com/feed/@idlefinance",
+      "filename": "Idle_on_Medium_b5e369c1",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Illuvium on Medium",
+      "url": "https://medium.com/feed/@illuvium",
+      "filename": "Illuvium_on_Medium_5ccc5fc6",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "InstaDApp - Medium",
+      "url": "https://medium.com/feed/instadapp",
+      "filename": "InstaDApp_-_Medium_8c220dd1",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Interlay - Medium",
+      "url": "https://medium.com/feed/interlay",
+      "filename": "Interlay_-_Medium_1b61c3fe",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Jack Mallers on Medium",
+      "url": "https://medium.com/feed/@JimmyMow",
+      "filename": "Jack_Mallers_on_Medium_cfcf3226",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Jarvis Network - Medium",
+      "url": "https://medium.com/feed/jarvis-network",
+      "filename": "Jarvis_Network_-_Medium_7f180ba0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Klaytn - Medium",
+      "url": "https://medium.com/feed/klaytn",
+      "filename": "Klaytn_-_Medium_98658dd8",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Krystal DeFi - Medium",
+      "url": "https://medium.com/feed/krystaldefi",
+      "filename": "Krystal_DeFi_-_Medium_6e942004",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "LayerZero Official - Medium",
+      "url": "https://medium.com/feed/layerzero-official",
+      "filename": "LayerZero_Official_-_Medium_f8e40ce7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "LexDAOism - Medium",
+      "url": "https://medium.com/feed/lexdaoism",
+      "filename": "LexDAOism_-_Medium_da9a0c98",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Lien - Medium",
+      "url": "https://medium.com/feed/lien-finance",
+      "filename": "Lien_-_Medium_60f4516f",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Liquity - Medium",
+      "url": "https://medium.com/feed/liquity",
+      "filename": "Liquity_-_Medium_df788246",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MIXMARVEL on Medium",
+      "url": "https://medium.com/feed/@MIXMARVELGAME",
+      "filename": "MIXMARVEL_on_Medium_60bc269b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Magic - Medium",
+      "url": "https://medium.com/feed/magiclabs",
+      "filename": "Magic_-_Medium_653db7f3",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Matter Labs - Medium",
+      "url": "https://medium.com/feed/matter-labs",
+      "filename": "Matter_Labs_-_Medium_31f7ff63",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Matter Labs on Medium",
+      "url": "https://medium.com/feed/@matterlabs",
+      "filename": "Matter_Labs_on_Medium_490fef9d",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Mercuryo - Medium",
+      "url": "https://medium.com/feed/mercuryo",
+      "filename": "Mercuryo_-_Medium_cc60d3ba",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MetaCartel DAO - Medium",
+      "url": "https://medium.com/feed/metacartel",
+      "filename": "MetaCartel_DAO_-_Medium_188243a3",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MetaMask - Medium",
+      "url": "https://medium.com/feed/metamask",
+      "filename": "MetaMask_-_Medium_828c25fc",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MetisDAO",
+      "url": "https://medium.com/feed/@metisdao",
+      "filename": "MetisDAO_8e84117f",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MinaProtocol - Medium",
+      "url": "https://medium.com/feed/minaprotocol/",
+      "filename": "MinaProtocol_-_Medium_91105d78",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Mining DAO - Medium",
+      "url": "https://medium.com/feed/mining-dao",
+      "filename": "Mining_DAO_-_Medium_bb8909d5",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Mintbase - Medium",
+      "url": "https://medium.com/feed/mintbase",
+      "filename": "Mintbase_-_Medium_86b8792b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Monolith - Medium",
+      "url": "https://medium.com/feed/monolith",
+      "filename": "Monolith_-_Medium_52767e1a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Muun - Medium",
+      "url": "https://medium.com/feed/muunwallet",
+      "filename": "Muun_-_Medium_872020bb",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MyCrypto - Medium",
+      "url": "https://medium.com/feed/mycrypto",
+      "filename": "MyCrypto_-_Medium_4dcfa0bb",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "MyEtherWallet on Medium",
+      "url": "https://medium.com/feed/@myetherwallet",
+      "filename": "MyEtherWallet_on_Medium_d8f79971",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Mysterium Network - Medium",
+      "url": "https://medium.com/feed/mysterium-network",
+      "filename": "Mysterium_Network_-_Medium_3d8ab824",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "NEAR Protocol - Medium",
+      "url": "https://medium.com/feed/nearprotocol",
+      "filename": "NEAR_Protocol_-_Medium_ba5fc3ed",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "NKN - Medium",
+      "url": "https://medium.com/feed/nknetwork",
+      "filename": "NKN_-_Medium_4970e706",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nethermind.eth - Medium",
+      "url": "https://medium.com/feed/nethermind-eth",
+      "filename": "Nethermind_eth_-_Medium_9cd23eae",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nexo - Medium",
+      "url": "https://medium.com/feed/nexo",
+      "filename": "Nexo_-_Medium_dba5907a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nexus Mutual - Medium",
+      "url": "https://medium.com/feed/nexus-mutual",
+      "filename": "Nexus_Mutual_-_Medium_d6b67baa",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nodle - Medium",
+      "url": "https://medium.com/feed/nodle-io",
+      "filename": "Nodle_-_Medium_90e60fe3",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nomic Foundation - Medium",
+      "url": "https://medium.com/feed/nomic-foundation-blog",
+      "filename": "Nomic_Foundation_-_Medium_90647756",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Notes.Finance - Medium",
+      "url": "https://medium.com/feed/notes-finance",
+      "filename": "Notes_Finance_-_Medium_aaf3dcef",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Nym on Medium",
+      "url": "https://medium.com/feed/@nymtech",
+      "filename": "Nym_on_Medium_55a05b4b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Offchain Labs",
+      "url": "https://offchain.medium.com/feed",
+      "filename": "Offchain_Labs_f501c6fb",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Offchain Labs (Arbitrum)",
+      "url": "https://medium.com/feed/offchainlabs",
+      "filename": "Offchain_Labs_Arbitrum_38f0c20d",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "OmniBOLT - Medium",
+      "url": "https://medium.com/feed/omnibolt",
+      "filename": "OmniBOLT_-_Medium_7d423e25",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "OpenDAO - Medium",
+      "url": "https://medium.com/feed/opendao",
+      "filename": "OpenDAO_-_Medium_38e9a4f7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "OpenGSN on Medium",
+      "url": "https://medium.com/feed/@opengsn",
+      "filename": "OpenGSN_on_Medium_14ef0ede",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Opium Team - Medium",
+      "url": "https://medium.com/feed/opium-network",
+      "filename": "Opium_Team_-_Medium_9c94c2e2",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Opyn - Medium",
+      "url": "https://medium.com/feed/opyn",
+      "filename": "Opyn_-_Medium_40e8aa25",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "POAP - Medium",
+      "url": "https://medium.com/feed/poap",
+      "filename": "POAP_-_Medium_45aaf23b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Pendle - Medium",
+      "url": "https://medium.com/feed/pendle",
+      "filename": "Pendle_-_Medium_4ccc149a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Phoenix Finance - Medium",
+      "url": "https://medium.com/feed/finnexus",
+      "filename": "Phoenix_Finance_-_Medium_f0607bb5",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "PieDAO - Medium",
+      "url": "https://medium.com/feed/piedao",
+      "filename": "PieDAO_-_Medium_dd36839e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Pinata - Medium",
+      "url": "https://medium.com/feed/pinata",
+      "filename": "Pinata_-_Medium_afdfceea",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Polkadot Network - Medium",
+      "url": "https://medium.com/feed/polkadot-network",
+      "filename": "Polkadot_Network_-_Medium_9cb5b3b0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "PoolTogether - Medium",
+      "url": "https://medium.com/feed/pooltogether",
+      "filename": "PoolTogether_-_Medium_62044001",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Portis on Medium",
+      "url": "https://medium.com/feed/@portis",
+      "filename": "Portis_on_Medium_61337b90",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "PowerPool - Medium",
+      "url": "https://medium.com/feed/powerpool/",
+      "filename": "PowerPool_-_Medium_b3f09207",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "PrimeDAO on Medium",
+      "url": "https://medium.com/feed/@primefoundation",
+      "filename": "PrimeDAO_on_Medium_a28fc93c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Primitive on Medium",
+      "url": "https://medium.com/feed/@primitivefinance",
+      "filename": "Primitive_on_Medium_2e2babe7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Prysmatic Labs - Medium",
+      "url": "https://medium.com/feed/prysmatic-labs",
+      "filename": "Prysmatic_Labs_-_Medium_1a8fc032",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Quoletta on Medium",
+      "url": "https://medium.com/feed/@mustcometh",
+      "filename": "Quoletta_on_Medium_291fe44d",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Reach Platform - Medium",
+      "url": "https://medium.com/feed/reach-sh",
+      "filename": "Reach_Platform_-_Medium_77aa7b48",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Reflexer Labs - Medium",
+      "url": "https://medium.com/feed/reflexer-labs",
+      "filename": "Reflexer_Labs_-_Medium_29a6d049",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ren Project - Medium",
+      "url": "https://medium.com/feed/renproject",
+      "filename": "Ren_Project_-_Medium_92f30ed4",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Reserve - Medium",
+      "url": "https://medium.com/feed/reserve-currency",
+      "filename": "Reserve_-_Medium_972d5859",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Ribbon Finance on Medium",
+      "url": "https://medium.com/feed/@ribbonfinance",
+      "filename": "Ribbon_Finance_on_Medium_0247feae",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Rocket Pool - Medium",
+      "url": "https://medium.com/feed/rocket-pool",
+      "filename": "Rocket_Pool_-_Medium_cb30b4c2",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "STASIS Blog - Medium",
+      "url": "https://medium.com/feed/stasis-blog",
+      "filename": "STASIS_Blog_-_Medium_4fc28889",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Samourai Wallet on Medium",
+      "url": "https://medium.com/feed/@SamouraiWallet",
+      "filename": "Samourai_Wallet_on_Medium_3470516a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Set Labs - Medium",
+      "url": "https://medium.com/feed/set-protocol",
+      "filename": "Set_Labs_-_Medium_42588f8b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "SlowMist on Medium",
+      "url": "https://slowmist.medium.com/feed",
+      "filename": "SlowMist_on_Medium_d5a3e5af",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Smart Token Labs - Medium",
+      "url": "https://medium.com/feed/alphawallet",
+      "filename": "Smart_Token_Labs_-_Medium_b44265a1",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Solv Protocol",
+      "url": "https://solvprotocol.medium.com/feed",
+      "filename": "Solv_Protocol_0967c611",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Spatium Blog - Medium",
+      "url": "https://medium.com/feed/spatium-blog",
+      "filename": "Spatium_Blog_-_Medium_0f94e1f7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Stakenet - Medium",
+      "url": "https://medium.com/feed/stakenet",
+      "filename": "Stakenet_-_Medium_b497a576",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "StarkWare on Medium",
+      "url": "https://medium.com/feed/@StarkWare",
+      "filename": "StarkWare_on_Medium_84b36711",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "SubQuery Network on Medium",
+      "url": "https://medium.com/feed/@subquery",
+      "filename": "SubQuery_Network_on_Medium_da59a7b3",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Sui by Mysten Labs",
+      "url": "https://medium.com/feed/mysten-labs",
+      "filename": "Sui_by_Mysten_Labs_bf9d22d1",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Superfluid on Medium",
+      "url": "https://medium.com/feed/@superfluid_HQ",
+      "filename": "Superfluid_on_Medium_6e44ed6a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Sushi - Medium",
+      "url": "https://medium.com/feed/sushiswap-org",
+      "filename": "Sushi_-_Medium_71b2816a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Swipe - Medium",
+      "url": "https://medium.com/feed/swipe",
+      "filename": "Swipe_-_Medium_b3ecccea",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Sylo - Medium",
+      "url": "https://medium.com/feed/sylo-io",
+      "filename": "Sylo_-_Medium_0c39f8b6",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "THORChain - Medium",
+      "url": "https://medium.com/feed/thorchain",
+      "filename": "THORChain_-_Medium_d7a1f3c4",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Taxa Network - Medium",
+      "url": "https://medium.com/feed/taxanetwork",
+      "filename": "Taxa_Network_-_Medium_04389312",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Tellor Core on Medium",
+      "url": "https://medium.com/feed/@tellor",
+      "filename": "Tellor_Core_on_Medium_aa00bea0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Thales on Medium",
+      "url": "https://medium.com/feed/@thalesmarket",
+      "filename": "Thales_on_Medium_ecbfcdd4",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "The Celo Blog - Medium",
+      "url": "https://medium.com/feed/celoorg",
+      "filename": "The_Celo_Blog_-_Medium_d54f2ff0",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "The Ethereum Name Service - Medium",
+      "url": "https://medium.com/feed/the-ethereum-name-service",
+      "filename": "The_Ethereum_Name_Service_-_Medium_438452db",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "The Index Coop - Medium",
+      "url": "https://medium.com/feed/indexcoop",
+      "filename": "The_Index_Coop_-_Medium_e1ae677b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "The LAO on Medium",
+      "url": "https://medium.com/feed/@thelaoofficial",
+      "filename": "The_LAO_on_Medium_fcf0c99e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "The Sandbox - Medium",
+      "url": "https://medium.com/feed/sandbox-game",
+      "filename": "The_Sandbox_-_Medium_2dac2c9c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Theta Network - Medium",
+      "url": "https://medium.com/feed/theta-network",
+      "filename": "Theta_Network_-_Medium_4eda6687",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Tornado Cash on Medium",
+      "url": "https://medium.com/feed/@tornado-cash",
+      "filename": "Tornado_Cash_on_Medium_2ace7c71",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Trustless Fund - Medium",
+      "url": "https://medium.com/feed/trustless-fund",
+      "filename": "Trustless_Fund_-_Medium_ff78c591",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "UMA Project - Medium",
+      "url": "https://medium.com/feed/uma-project",
+      "filename": "UMA_Project_-_Medium_525a2fbd",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "UniLogin - Medium",
+      "url": "https://medium.com/feed/universal-ethereum",
+      "filename": "UniLogin_-_Medium_3e8131fb",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Unitradeappnews on Medium",
+      "url": "https://medium.com/feed/@unitradeapp",
+      "filename": "Unitradeappnews_on_Medium_e58ed33c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Universal Protocol - Medium",
+      "url": "https://medium.com/feed/universalprotocol",
+      "filename": "Universal_Protocol_-_Medium_1e6fa565",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "UpshotHQ - Medium",
+      "url": "https://medium.com/feed/upshothq",
+      "filename": "UpshotHQ_-_Medium_3e8434cf",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Vega Protocol - Medium",
+      "url": "https://medium.com/feed/vegaprotocol",
+      "filename": "Vega_Protocol_-_Medium_1c7a7185",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Vertalo on Medium",
+      "url": "https://medium.com/feed/@Vertalo",
+      "filename": "Vertalo_on_Medium_45b2abd8",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Vesper Finance - Medium",
+      "url": "https://medium.com/feed/vesperfinance",
+      "filename": "Vesper_Finance_-_Medium_43eb3565",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Visor Finance - Medium",
+      "url": "https://medium.com/feed/visorfinance",
+      "filename": "Visor_Finance_-_Medium_88083e83",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Visor Finance on Medium",
+      "url": "https://medium.com/feed/@visorfinance",
+      "filename": "Visor_Finance_on_Medium_8b6d9ad7",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "WalletConnect - Medium",
+      "url": "https://medium.com/feed/walletconnect",
+      "filename": "WalletConnect_-_Medium_e50f672c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Web3Auth - Medium",
+      "url": "https://medium.com/feed/toruslabs",
+      "filename": "Web3Auth_-_Medium_ae94ecb8",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Whale Shark on Medium",
+      "url": "https://medium.com/feed/@whalesharkdotpro",
+      "filename": "Whale_Shark_on_Medium_37bb315e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Wyre on Medium",
+      "url": "https://medium.com/feed/@wyre",
+      "filename": "Wyre_on_Medium_ab2943af",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "XDEFI Wallet on Medium",
+      "url": "https://medium.com/feed/@xdefi-io",
+      "filename": "XDEFI_Wallet_on_Medium_90ef17a2",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "Yearn - Medium",
+      "url": "https://medium.com/feed/iearn",
+      "filename": "Yearn_-_Medium_3af1172c",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "ZKOPRU (EF)",
+      "url": "https://medium.com/feed/privacy-scaling-explorations",
+      "filename": "ZKOPRU_EF_c9d0906d",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "bloXroute Team on Medium",
+      "url": "https://medium.com/feed/@bloxroutelabs",
+      "filename": "bloXroute_Team_on_Medium_468136e8",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "bluewallet - Medium",
+      "url": "https://medium.com/feed/bluewallet",
+      "filename": "bluewallet_-_Medium_97e6c86d",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "dForce - Medium",
+      "url": "https://medium.com/feed/dforcenet",
+      "filename": "dForce_-_Medium_1a189846",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "dHEDGE on Medium",
+      "url": "https://medium.com/feed/@dhedgeorg",
+      "filename": "dHEDGE_on_Medium_cd79bfa5",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "gyroscope-protocol - Medium",
+      "url": "https://medium.com/feed/gyroscope-protocol",
+      "filename": "gyroscope-protocol_-_Medium_b7213460",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "mStable - Medium",
+      "url": "https://medium.com/feed/mstable",
+      "filename": "mStable_-_Medium_e330666f",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "pNetwork Team on Medium",
+      "url": "https://medium.com/feed/@provablethings",
+      "filename": "pNetwork_Team_on_Medium_3989c04b",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "safenetwork - Medium",
+      "url": "https://medium.com/feed/safenetwork",
+      "filename": "safenetwork_-_Medium_865105d6",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "tempus - Medium",
+      "url": "https://medium.com/feed/tempusfinance",
+      "filename": "tempus_-_Medium_e70adba3",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "01. Project Updates",
+      "title": "zkLinkDeFi - Medium",
+      "url": "https://medium.com/feed/zklinkdefi",
+      "filename": "zkLinkDeFi_-_Medium_580d0c97",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "02. Media/Aggregator/Curator",
+      "title": "Paradigm Fund",
+      "url": "https://medium.com/feed/paradigm-fund/",
+      "filename": "Paradigm_Fund_bfa5c8ee",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Collider Ventures - Medium",
+      "url": "https://medium.com/feed/colliderventures",
+      "filename": "Collider_Ventures_-_Medium_dfb153ba",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Crypto Punks - Medium",
+      "url": "https://medium.com/feed/crypto-punks",
+      "filename": "Crypto_Punks_-_Medium_0e9c7a44",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Dragonfly Research - Medium",
+      "url": "https://medium.com/feed/dragonfly-research",
+      "filename": "Dragonfly_Research_-_Medium_4c27359a",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Electric Capital - Medium",
+      "url": "https://medium.com/feed/electric-capital",
+      "filename": "Electric_Capital_-_Medium_43ddf0ea",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Fabric Ventures - Medium",
+      "url": "https://medium.com/feed/fabric-ventures",
+      "filename": "Fabric_Ventures_-_Medium_346df25e",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Gauntlet - Medium",
+      "url": "https://medium.com/feed/gauntlet-networks",
+      "filename": "Gauntlet_-_Medium_6bea6c03",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Stories by Bixin Ventures on Medium",
+      "url": "https://bixinventures.medium.com/feed",
+      "filename": "Stories_by_Bixin_Ventures_on_Medium_f06dc869",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Stories by Foresight Ventures 中文 on Medium",
+      "url": "https://medium.com/feed/@foresightventures-zh",
+      "filename": "Stories_by_Foresight_Ventures_中文_on_Medium_b217fd85",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Stories by Pantera Capital on Medium",
+      "url": "https://medium.com/feed/@PanteraCapital",
+      "filename": "Stories_by_Pantera_Capital_on_Medium_2341f9bd",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Stories by Polynya on Medium",
+      "url": "https://medium.com/feed/@polynya",
+      "filename": "Stories_by_Polynya_on_Medium_109eb624",
+      "ok": false,
+      "error": "HTTP 429"
+    },
+    {
+      "category": "05. Research/VC",
+      "title": "Taipei Ethereum Meetup - Medium",
+      "url": "https://medium.com/feed/taipei-ethereum-meetup",
+      "filename": "Taipei_Ethereum_Meetup_-_Medium_1600c301",
+      "ok": false,
+      "error": "HTTP 429"
+    }
+  ]
+}
