@@ -1,19 +1,24 @@
 name: Fetch Medium Feeds (境外抓取 → 仓库存档)
 
-# 触发方式：
-# 1. 每天北京时间 08:00 / 20:00 自动运行（UTC 00:00 / 12:00）
-# 2. 也可在 Actions 页面手动点击 Run workflow
+# Medium 对 GitHub 出口 IP 有持续 429 限流，采用「小批量 + 高频次」增量策略：
+# 每 3 小时补抓 60 个未成功的源，逐步积累到全部成功。
+# 也可在 Actions 页面手动点击 Run workflow（inputs.batch 可指定本次抓取数量）。
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
+    inputs:
+      batch:
+        description: '本次补抓数量（默认 60）'
+        required: false
+        default: '60'
 
 permissions:
   contents: write
 
 jobs:
   fetch:
-    runs-on: ubuntu-latest  # GitHub 境外服务器，可直连 Medium
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 仓库
         uses: actions/checkout@v4
@@ -26,8 +31,8 @@ jobs:
       - name: 安装依赖
         run: pip install requests
 
-      - name: 抓取全部 Medium feed 并存为 XML
-        run: python scripts/fetch_medium.py
+      - name: 增量补抓 Medium feed
+        run: python scripts/fetch_medium.py ${{ github.event.inputs.batch || '60' }}
 
       - name: 提交抓取结果
         run: |
