@@ -1,0 +1,42 @@
+name: Fetch Medium Feeds (境外抓取 → 仓库存档)
+
+# 触发方式：
+# 1. 每天北京时间 08:00 / 20:00 自动运行（UTC 00:00 / 12:00）
+# 2. 也可在 Actions 页面手动点击 Run workflow
+on:
+  schedule:
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest  # GitHub 境外服务器，可直连 Medium
+    steps:
+      - name: Checkout 仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 抓取全部 Medium feed 并存为 XML
+        run: python scripts/fetch_medium.py
+
+      - name: 提交抓取结果
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feeds/ manifest.json
+          if git diff --cached --quiet; then
+            echo "无内容变化，跳过提交"
+          else
+            git commit -m "chore: update medium feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
