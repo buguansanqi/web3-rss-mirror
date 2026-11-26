@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T09:18:44Z",
+  "updated_at": "2026-11-26T20:56:36Z",
   "total": 224,
-  "ok": 75,
+  "ok": 94,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -432,40 +432,40 @@
       "title": "Convergence Finance on Medium",
       "url": "https://medium.com/feed/@convergencefinance",
       "filename": "Convergence_Finance_on_Medium_391ef9c5",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DAOfi - Medium",
       "url": "https://medium.com/feed/daofi",
       "filename": "DAOfi_-_Medium_b7e474f9",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DEGO on Medium",
       "url": "https://medium.com/feed/@degofinance",
       "filename": "DEGO_on_Medium_55b08c0e",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DFINITY on Medium",
       "url": "https://medium.com/feed/@dfinity",
       "filename": "DFINITY_on_Medium_ea2f2445",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DIA Insights - Medium",
       "url": "https://medium.com/feed/dia-insights",
       "filename": "DIA_Insights_-_Medium_3868c753",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -480,40 +480,40 @@
       "title": "Dapper Labs on Medium",
       "url": "https://medium.com/feed/@hellodapper",
       "filename": "Dapper_Labs_on_Medium_c2bf8099",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DeFi Saver - Medium",
       "url": "https://medium.com/feed/defi-saver",
       "filename": "DeFi_Saver_-_Medium_87fd57da",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DeGate Team on Medium",
       "url": "https://medium.com/feed/@degate",
       "filename": "DeGate_Team_on_Medium_a05abb83",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Defi Lab on Medium",
       "url": "https://medium.com/feed/@defi-lab",
       "filename": "Defi_Lab_on_Medium_e6db62b9",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "DerivaDEX - Medium",
       "url": "https://medium.com/feed/derivadex",
       "filename": "DerivaDEX_-_Medium_28260274",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -528,48 +528,48 @@
       "title": "EGL on Medium",
       "url": "https://medium.com/feed/@eglvote",
       "filename": "EGL_on_Medium_f20254e0",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Electron Labs - Medium",
       "url": "https://medium.com/feed/electron-labs",
       "filename": "Electron_Labs_-_Medium_ce94cf33",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Element Finance - Medium",
       "url": "https://medium.com/feed/element-finance",
       "filename": "Element_Finance_-_Medium_283998fb",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "EnsoFinance - Medium",
       "url": "https://medium.com/feed/ensofinance",
       "filename": "EnsoFinance_-_Medium_eb245044",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Enzyme - Medium",
       "url": "https://medium.com/feed/melonprotocol",
       "filename": "Enzyme_-_Medium_813f32d9",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Equilibrium - Medium",
       "url": "https://medium.com/feed/equilibrium-eosdt",
       "filename": "Equilibrium_-_Medium_072e0e9a",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -592,8 +592,8 @@
       "title": "Ethereum Swarm - Medium",
       "url": "https://medium.com/feed/ethereum-swarm",
       "filename": "Ethereum_Swarm_-_Medium_c744c80c",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1640,16 +1640,16 @@
       "title": "dForce - Medium",
       "url": "https://medium.com/feed/dforcenet",
       "filename": "dForce_-_Medium_1a189846",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "dHEDGE on Medium",
       "url": "https://medium.com/feed/@dhedgeorg",
       "filename": "dHEDGE_on_Medium_cd79bfa5",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
