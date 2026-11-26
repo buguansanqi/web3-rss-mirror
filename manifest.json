@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T09:15:07Z",
+  "updated_at": "2026-11-26T09:18:44Z",
   "total": 224,
-  "ok": 51,
+  "ok": 75,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -232,40 +232,40 @@
       "title": "Babylon.finance - Medium",
       "url": "https://medium.com/feed/babylon-finance",
       "filename": "Babylon_finance_-_Medium_40c2f0a6",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Badger DAO 🦡 on Medium",
       "url": "https://medium.com/feed/@badgerdao",
       "filename": "Badger_DAO_on_Medium_cd916d06",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Bakkt Blog - Medium",
       "url": "https://medium.com/feed/bakkt-blog",
       "filename": "Bakkt_Blog_-_Medium_4b307bef",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Balancer Protocol - Medium",
       "url": "https://medium.com/feed/balancer-protocol",
       "filename": "Balancer_Protocol_-_Medium_90ae6636",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "BanklessDAO - Medium",
       "url": "https://medium.com/feed/bankless-dao",
       "filename": "BanklessDAO_-_Medium_556e99f8",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -280,40 +280,40 @@
       "title": "Bitwise Asset Management - Medium",
       "url": "https://medium.com/feed/bitwise-asset-management",
       "filename": "Bitwise_Asset_Management_-_Medium_bddf72c1",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "BlockRocket - Medium",
       "url": "https://medium.com/feed/blockrocket",
       "filename": "BlockRocket_-_Medium_9f5cce5c",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "BlockWallet on Medium",
       "url": "https://medium.com/feed/@blockwallet",
       "filename": "BlockWallet_on_Medium_93ca9c8f",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Blockchain.com",
       "url": "https://medium.com/feed/blockchain",
       "filename": "Blockchain_com_e24f191e",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Blockfolio on Medium",
       "url": "https://medium.com/feed/@Blockfolio",
       "filename": "Blockfolio_on_Medium_af188391",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -328,48 +328,48 @@
       "title": "Blockstream on Medium",
       "url": "https://medium.com/feed/@blockstream",
       "filename": "Blockstream_on_Medium_0445e98e",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Borderless Capital on Medium",
       "url": "https://medium.com/feed/@borderlesscapital",
       "filename": "Borderless_Capital_on_Medium_8257cfb4",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Bounce.finance on Medium",
       "url": "https://medium.com/feed/@bouncefinance",
       "filename": "Bounce_finance_on_Medium_a9959632",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Breez Technology - Medium",
       "url": "https://medium.com/feed/breez-technology",
       "filename": "Breez_Technology_-_Medium_fd4dc8c7",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "CMT Digital Limited on Medium",
       "url": "https://medium.com/feed/@CMTDigitalLtd",
       "filename": "CMT_Digital_Limited_on_Medium_238a813c",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Cartesi - Medium",
       "url": "https://medium.com/feed/cartesi",
       "filename": "Cartesi_-_Medium_e1d4c788",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -384,48 +384,48 @@
       "title": "Centrifuge - Medium",
       "url": "https://medium.com/feed/centrifuge",
       "filename": "Centrifuge_-_Medium_d8b001b0",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "ChainSafe - Medium",
       "url": "https://medium.com/feed/chainsafe-systems",
       "filename": "ChainSafe_-_Medium_2900c43c",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "ChainSecurity - Medium",
       "url": "https://medium.com/feed/chainsecurity",
       "filename": "ChainSecurity_-_Medium_11768c06",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Charm - Medium",
       "url": "https://medium.com/feed/charmfinance",
       "filename": "Charm_-_Medium_87d422b6",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Compound - Medium",
       "url": "https://medium.com/feed/compound-finance",
       "filename": "Compound_-_Medium_2daac8a5",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Connext - Medium",
       "url": "https://medium.com/feed/connext",
       "filename": "Connext_-_Medium_51a85425",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1624,16 +1624,16 @@
       "title": "bloXroute Team on Medium",
       "url": "https://medium.com/feed/@bloxroutelabs",
       "filename": "bloXroute_Team_on_Medium_468136e8",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "bluewallet - Medium",
       "url": "https://medium.com/feed/bluewallet",
       "filename": "bluewallet_-_Medium_97e6c86d",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
