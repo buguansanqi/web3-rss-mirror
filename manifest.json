@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T20:56:36Z",
+  "updated_at": "2026-11-27T03:31:25Z",
   "total": 224,
-  "ok": 94,
+  "ok": 110,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -584,8 +584,8 @@
       "title": "Ethereum Cat Herders - Medium",
       "url": "https://medium.com/feed/ethereum-cat-herders",
       "filename": "Ethereum_Cat_Herders_-_Medium_01a778cf",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -608,16 +608,16 @@
       "title": "Etherscan Blog - Medium",
       "url": "https://medium.com/feed/etherscan-blog",
       "filename": "Etherscan_Blog_-_Medium_d70f0792",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "FIO Blog - Medium",
       "url": "https://medium.com/feed/fio-blog",
       "filename": "FIO_Blog_-_Medium_aa148f2e",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -632,96 +632,96 @@
       "title": "Findora - Medium",
       "url": "https://medium.com/feed/findora",
       "filename": "Findora_-_Medium_2552a3df",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Firefly - Medium",
       "url": "https://medium.com/feed/dtrade",
       "filename": "Firefly_-_Medium_bbf6da52",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Flashbots - Medium",
       "url": "https://medium.com/feed/flashbots",
       "filename": "Flashbots_-_Medium_83f08cba",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Flexa - Medium",
       "url": "https://medium.com/feed/flexa",
       "filename": "Flexa_-_Medium_1a84bcac",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Float Protocol on Medium",
       "url": "https://medium.com/feed/@floatprotocol",
       "filename": "Float_Protocol_on_Medium_aa30dd5f",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Fluidity - Medium",
       "url": "https://medium.com/feed/fluidity",
       "filename": "Fluidity_-_Medium_2ad62a61",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Force on Medium",
       "url": "https://medium.com/feed/@forcedao",
       "filename": "Force_on_Medium_a4e87b06",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Futureswap - Medium",
       "url": "https://medium.com/feed/futureswap",
       "filename": "Futureswap_-_Medium_e17c6786",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "GPU Report on Medium",
       "url": "https://medium.com/feed/@raiden_network",
       "filename": "GPU_Report_on_Medium_7efbcf04",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Gelato Network on Medium",
       "url": "https://medium.com/feed/@gelatonetwork",
       "filename": "Gelato_Network_on_Medium_38d9146b",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "GiveCrypto.org - Medium",
       "url": "https://medium.com/feed/givecrypto",
       "filename": "GiveCrypto_org_-_Medium_8b96ec43",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Gnosis on Medium",
       "url": "https://medium.com/feed/@gnosisPM",
       "filename": "Gnosis_on_Medium_0aa76c2a",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -736,8 +736,8 @@
       "title": "Gro on Medium",
       "url": "https://medium.com/feed/@groprotocol",
       "filename": "Gro_on_Medium_2315523f",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
