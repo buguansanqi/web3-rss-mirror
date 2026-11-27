@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T03:31:25Z",
+  "updated_at": "2026-11-27T16:09:49Z",
   "total": 224,
-  "ok": 110,
+  "ok": 124,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -744,8 +744,8 @@
       "title": "HOPR - Medium",
       "url": "https://medium.com/feed/hoprnet",
       "filename": "HOPR_-_Medium_c6db0cef",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -760,16 +760,16 @@
       "title": "Horizon Games - Medium",
       "url": "https://medium.com/feed/horizongames",
       "filename": "Horizon_Games_-_Medium_3a0e12ae",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Idle on Medium",
       "url": "https://medium.com/feed/@idlefinance",
       "filename": "Idle_on_Medium_b5e369c1",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -784,64 +784,64 @@
       "title": "InstaDApp - Medium",
       "url": "https://medium.com/feed/instadapp",
       "filename": "InstaDApp_-_Medium_8c220dd1",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Interlay - Medium",
       "url": "https://medium.com/feed/interlay",
       "filename": "Interlay_-_Medium_1b61c3fe",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Jack Mallers on Medium",
       "url": "https://medium.com/feed/@JimmyMow",
       "filename": "Jack_Mallers_on_Medium_cfcf3226",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Jarvis Network - Medium",
       "url": "https://medium.com/feed/jarvis-network",
       "filename": "Jarvis_Network_-_Medium_7f180ba0",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Klaytn - Medium",
       "url": "https://medium.com/feed/klaytn",
       "filename": "Klaytn_-_Medium_98658dd8",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Krystal DeFi - Medium",
       "url": "https://medium.com/feed/krystaldefi",
       "filename": "Krystal_DeFi_-_Medium_6e942004",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "LayerZero Official - Medium",
       "url": "https://medium.com/feed/layerzero-official",
       "filename": "LayerZero_Official_-_Medium_f8e40ce7",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "LexDAOism - Medium",
       "url": "https://medium.com/feed/lexdaoism",
       "filename": "LexDAOism_-_Medium_da9a0c98",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -856,8 +856,8 @@
       "title": "Liquity - Medium",
       "url": "https://medium.com/feed/liquity",
       "filename": "Liquity_-_Medium_df788246",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -872,8 +872,8 @@
       "title": "Magic - Medium",
       "url": "https://medium.com/feed/magiclabs",
       "filename": "Magic_-_Medium_653db7f3",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1656,8 +1656,8 @@
       "title": "gyroscope-protocol - Medium",
       "url": "https://medium.com/feed/gyroscope-protocol",
       "filename": "gyroscope-protocol_-_Medium_b7213460",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
