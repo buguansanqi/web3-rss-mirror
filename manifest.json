@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-28T01:06:26Z",
+  "updated_at": "2026-11-28T11:23:11Z",
   "total": 224,
-  "ok": 136,
+  "ok": 146,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -968,24 +968,24 @@
       "title": "MyCrypto - Medium",
       "url": "https://medium.com/feed/mycrypto",
       "filename": "MyCrypto_-_Medium_4dcfa0bb",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "MyEtherWallet on Medium",
       "url": "https://medium.com/feed/@myetherwallet",
       "filename": "MyEtherWallet_on_Medium_d8f79971",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Mysterium Network - Medium",
       "url": "https://medium.com/feed/mysterium-network",
       "filename": "Mysterium_Network_-_Medium_3d8ab824",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1008,16 +1008,16 @@
       "title": "Nethermind.eth - Medium",
       "url": "https://medium.com/feed/nethermind-eth",
       "filename": "Nethermind_eth_-_Medium_9cd23eae",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Nexo - Medium",
       "url": "https://medium.com/feed/nexo",
       "filename": "Nexo_-_Medium_dba5907a",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1208,40 +1208,40 @@
       "title": "Prysmatic Labs - Medium",
       "url": "https://medium.com/feed/prysmatic-labs",
       "filename": "Prysmatic_Labs_-_Medium_1a8fc032",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Quoletta on Medium",
       "url": "https://medium.com/feed/@mustcometh",
       "filename": "Quoletta_on_Medium_291fe44d",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Reach Platform - Medium",
       "url": "https://medium.com/feed/reach-sh",
       "filename": "Reach_Platform_-_Medium_77aa7b48",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Reflexer Labs - Medium",
       "url": "https://medium.com/feed/reflexer-labs",
       "filename": "Reflexer_Labs_-_Medium_29a6d049",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Ren Project - Medium",
       "url": "https://medium.com/feed/renproject",
       "filename": "Ren_Project_-_Medium_92f30ed4",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
