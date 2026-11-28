@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-27T16:09:49Z",
+  "updated_at": "2026-11-28T01:06:26Z",
   "total": 224,
-  "ok": 124,
+  "ok": 136,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -864,8 +864,8 @@
       "title": "MIXMARVEL on Medium",
       "url": "https://medium.com/feed/@MIXMARVELGAME",
       "filename": "MIXMARVEL_on_Medium_60bc269b",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -880,40 +880,40 @@
       "title": "Matter Labs - Medium",
       "url": "https://medium.com/feed/matter-labs",
       "filename": "Matter_Labs_-_Medium_31f7ff63",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Matter Labs on Medium",
       "url": "https://medium.com/feed/@matterlabs",
       "filename": "Matter_Labs_on_Medium_490fef9d",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Mercuryo - Medium",
       "url": "https://medium.com/feed/mercuryo",
       "filename": "Mercuryo_-_Medium_cc60d3ba",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "MetaCartel DAO - Medium",
       "url": "https://medium.com/feed/metacartel",
       "filename": "MetaCartel_DAO_-_Medium_188243a3",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "MetaMask - Medium",
       "url": "https://medium.com/feed/metamask",
       "filename": "MetaMask_-_Medium_828c25fc",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -928,40 +928,40 @@
       "title": "MinaProtocol - Medium",
       "url": "https://medium.com/feed/minaprotocol/",
       "filename": "MinaProtocol_-_Medium_91105d78",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Mining DAO - Medium",
       "url": "https://medium.com/feed/mining-dao",
       "filename": "Mining_DAO_-_Medium_bb8909d5",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Mintbase - Medium",
       "url": "https://medium.com/feed/mintbase",
       "filename": "Mintbase_-_Medium_86b8792b",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Monolith - Medium",
       "url": "https://medium.com/feed/monolith",
       "filename": "Monolith_-_Medium_52767e1a",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Muun - Medium",
       "url": "https://medium.com/feed/muunwallet",
       "filename": "Muun_-_Medium_872020bb",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1664,8 +1664,8 @@
       "title": "mStable - Medium",
       "url": "https://medium.com/feed/mstable",
       "filename": "mStable_-_Medium_e330666f",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
