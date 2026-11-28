@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-28T11:23:11Z",
+  "updated_at": "2026-11-28T19:33:28Z",
   "total": 224,
-  "ok": 146,
+  "ok": 154,
   "feeds": [
     {
       "category": "01. Project Updates",
@@ -1248,24 +1248,24 @@
       "title": "Reserve - Medium",
       "url": "https://medium.com/feed/reserve-currency",
       "filename": "Reserve_-_Medium_972d5859",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Ribbon Finance on Medium",
       "url": "https://medium.com/feed/@ribbonfinance",
       "filename": "Ribbon_Finance_on_Medium_0247feae",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Rocket Pool - Medium",
       "url": "https://medium.com/feed/rocket-pool",
       "filename": "Rocket_Pool_-_Medium_cb30b4c2",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1280,32 +1280,32 @@
       "title": "Samourai Wallet on Medium",
       "url": "https://medium.com/feed/@SamouraiWallet",
       "filename": "Samourai_Wallet_on_Medium_3470516a",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Set Labs - Medium",
       "url": "https://medium.com/feed/set-protocol",
       "filename": "Set_Labs_-_Medium_42588f8b",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "SlowMist on Medium",
       "url": "https://slowmist.medium.com/feed",
       "filename": "SlowMist_on_Medium_d5a3e5af",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
       "title": "Smart Token Labs - Medium",
       "url": "https://medium.com/feed/alphawallet",
       "filename": "Smart_Token_Labs_-_Medium_b44265a1",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
@@ -1680,8 +1680,8 @@
       "title": "safenetwork - Medium",
       "url": "https://medium.com/feed/safenetwork",
       "filename": "safenetwork_-_Medium_865105d6",
-      "ok": false,
-      "error": "HTTP 429 (重试仍限流)"
+      "ok": true,
+      "error": ""
     },
     {
       "category": "01. Project Updates",
